@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img align="right" alt="GIF" height="125px" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/1c075b65167797.5aeb195f0420d.gif" />
+<img align="right" alt="GIF" height="125px" src="https://media0.giphy.com/media/8vHVIUaroksRmPQNei/giphy.gif" />
 
 - 🌱 I’m currently mastering PHP and JavaScript.
 - 📫 How to reach me: [Telegram](https://telegram.me/extgfx)
