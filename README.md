@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently focussed on learning NodeJS.
 - 📫 How to reach me: [Telegram](https://telegram.me/extgfx)
-- ⚡ Fun fact: I'm a Japanese-Chinese Mix.
+- ⚡ Fun fact: I'm a Music Addict.
 
 
 [![extgfx's github stats](https://github-readme-stats.vercel.app/api?username=extgfx&title_color=333&text_color=777&show_icons=true&icon_color=333&hide_border=true)](https://github.com/extgfx)
