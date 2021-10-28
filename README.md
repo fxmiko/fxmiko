@@ -9,4 +9,11 @@
 - ⚡ A Music Addict.
 
 
-[![extgfx's github stats](https://github-readme-stats.vercel.app/api?username=extgfx&title_color=333&text_color=777&show_icons=true&icon_color=333&hide_border=true)](https://github.com/extgfx)
+<details>
+  <summary><b>📊 Github Stats</b></summary>
+  <img alt="Wahyu's github stats" src="https://github-readme-stats.vercel.app/api?username=extgfx&count_private=true&hide=issues&show_icons=true&hide_border=true&include_all_commits=true&line_height=24"/>
+  <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" />
+  <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=extgfx&layout=compact&hide_border=true"/>
+</details>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=extgfx)](https://github.com/ryo-ma/github-profile-trophy)
