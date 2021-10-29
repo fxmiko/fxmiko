@@ -4,16 +4,18 @@
 <img align="right" alt="GIF" height="150px" src="https://24.media.tumblr.com/ceb6634f80ee576d89447a600d7e1bbc/tumblr_mlep8vEtSp1sor55qo1_400.gif" />
 
 
-- 🌱 Not doing any coding lately, busy with real life..
-- 📫 How to reach me: [Telegram](https://telegram.me/extgfx)
+- 🌱 Not doing any coding lately, kinda busy with real life..
 - ⚡ A Music Addict.
 
 
-<details>
-  <summary><b>📊 Github Stats</b></summary>
-  <img alt="Wahyu's github stats" src="https://github-readme-stats.vercel.app/api?username=extgfx&count_private=true&hide=issues&show_icons=true&hide_border=true&include_all_commits=true&line_height=24"/>
-  <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" />
-  <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=extgfx&layout=compact&hide_border=true"/>
-</details>
+<p align="left">
+<a href="https://twitter.com/FumikoGaming" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="maz_ipan" height="30" width="40" /></a>
+<a href="https://instagram.com/extgfx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="maz_ipan" height="30" width="40" /></a>
+</p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=extgfx)](https://github.com/ryo-ma/github-profile-trophy)
+### Support me !
+
+- 👉 🌍 [Saweria](https://saweria.co/extgfx/tip?utm_source=github)
+- 👉 🌍 [Paypal](https://www.paypal.me/extgfx?utm_source=github)
+
+<p><img src="https://github-readme-stats.vercel.app/api?username=extgfx&show_icons=true&theme=nightowl&locale=en" alt="mazipan" /></p>
