@@ -17,5 +17,3 @@
 
 - 👉 🌍 [Saweria](https://saweria.co/extgfx?utm_source=github)
 - 👉 🌍 [Paypal](https://www.paypal.me/extgfx?utm_source=github)
-
-<p><img src="https://github-readme-stats.vercel.app/api?username=extgfx&show_icons=true&theme=nightowl&locale=en" alt="mazipan" /></p>
