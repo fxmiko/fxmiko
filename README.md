@@ -3,4 +3,4 @@
 [![](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/extgfx)
 [![](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://fb.me/extgfx)
 
-[![](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=Ethereum)](https://t.me/extgfx) 
+[![](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=Ethereum)](https://github.com/extgfx/extgfx/blob/master/crypto.txt) 
