@@ -1,3 +1,6 @@
-## <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> Links
-[![](https://img.shields.io/badge/-linkedin-0073B1?style=flat-square)](https://www.linkedin.com/in/extgfx/)
-[![](https://img.shields.io/badge/-twitter-1C9CEA?style=flat-square)](https://twitter.com/AdeptGx)
+## <img height="40" src="https://raw.githubusercontent.com/extgfx/extgfx/master/assets/kyubey.gif"/> Links
+[![](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/AdeptGx)
+[![](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/extgfx)
+[![](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://fb.me/extgfx)
+
+[![](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=Ethereum)](https://t.me/extgfx) 
