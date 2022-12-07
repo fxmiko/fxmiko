@@ -8,6 +8,7 @@
 ```
 i do code sometimes, mostly on useless stuff.
 please dont talk to me when im focussed on something, i will talk for hours and not get anything done.
+
 i play GeoGuessr on my freetime. 
 ```
 
