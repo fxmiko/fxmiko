@@ -1,11 +1,14 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" />
-  <img src="https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=Node.js" />
-  <img src="https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=e34f26" />
-  <img src="https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3&logoColor=1572b6" /> <br>
-  <img src="https://img.shields.io/badge/-Windows-black?style=flat-square&logo=windows" />
+  <img src="https://img.shields.io/badge/-php-black?style=flat-square&logo=php&logoColor=e34f26" />
+  <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=python&logoColor=1572b6" /> <br>
+  <img src="https://img.shields.io/badge/-xampp-black?style=flat-square&logo=Xampp" />  
+  <img src="https://img.shields.io/badge/-Vim-black?style=flat-square&logo=Vim" />  
+  <img src="https://img.shields.io/badge/-PowerShell-black?style=flat-square&logo=Powershell" />  
+  <img src="https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=Node.js" /> <br>
   <img src="https://img.shields.io/badge/-Sublime-black?style=flat-square&logo=sublime-text" /> 
+  <img src="https://img.shields.io/badge/-Termius-black?style=flat-square&logo=termius-ssh-client" /> 
   <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" /> <br>
   <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" /> 
   <img src="https://img.shields.io/badge/-npm-black?style=flat-square&logo=npm" /> 
@@ -15,7 +18,7 @@ ___
 
 
 ```
-i do code sometimes, mostly on useless stuff.
+i code.
 please dont talk to me when im focussed on something, i will talk for hours and not get anything done.
 
 i play GeoGuessr on my freetime. 
