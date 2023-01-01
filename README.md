@@ -1,4 +1,4 @@
-___
+
 <p align="center">
   <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" />
   <img src="https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=Node.js" />
@@ -13,12 +13,6 @@ ___
 
 ___
 
-<!-- <hr> 
-<p align="center">
-  <img src="https://github.com/fxmiko/fxmiko/blob/master/assets/coding-hoodie.gif" alt="GIF is being loaded">
-</p>
-
-<hr>  -->
 
 ```
 i do code sometimes, mostly on useless stuff.
@@ -26,6 +20,15 @@ please dont talk to me when im focussed on something, i will talk for hours and 
 
 i play GeoGuessr on my freetime. 
 ```
+
+<!-- <hr> 
+<p align="center">
+  <img src="https://github.com/fxmiko/fxmiko/blob/master/assets/coding-hoodie.gif" alt="GIF is being loaded">
+</p>
+
+<hr>  -->
+
+
 
 <!-- ## <img height="40" src="https://raw.githubusercontent.com/extgfx/extgfx/master/assets/kyubey.gif"/>  Connect With Me! 
 
