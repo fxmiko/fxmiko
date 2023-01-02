@@ -18,10 +18,11 @@ ___
 
 
 ```
-i code.
-please dont talk to me when im focussed on something, i will talk for hours and not get anything done.
+i code, listen to music & would play GeoGuessr or just draw on my freetime. 
 
-i play GeoGuessr on my freetime. 
+Your future self is talking shit about you.
+
+
 ```
 
 <!-- <hr> 
