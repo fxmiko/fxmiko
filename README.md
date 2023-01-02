@@ -21,8 +21,6 @@ ___
 i code, listen to music & would play GeoGuessr or just draw on my freetime. 
 
 Your future self is talking shit about you.
-
-
 ```
 
 <!-- <hr> 
